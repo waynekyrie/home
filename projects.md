@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Research
-permalink: /research/
+title: Projects
+permalink: /projects/
 ---
-My research in the [Intelligent Control Lab](https://www.ri.cmu.edu/robotics-groups/intelligent-control-lab/) mainly focuses on adaptive systems, safe human-robot collaboration, and robot perception. Here is a list of some featured progress.
+Here is a gallery of the projects I did either for courses or extracurricular events.
 
 <ul class="listing">
-{% for post in site.categories.research %}
+{% for post in site.categories.projects %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
   {% if year != y %}
     {% assign year = y %}
