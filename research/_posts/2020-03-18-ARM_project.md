@@ -10,4 +10,5 @@ In manufacturing, many large workpieces are made by welding subcomponents togeth
 
 # Problem and Setup
 The problem that this project intends to solve is to polish the weld bead inside a workpiece. 
-{% include image.html url="research/images/ARM/environment_setup_caption.jpg" caption="" width="300px" align="left" %}
+![My helpful screenshot](/research/images/ARM/environment_setup_caption.jpg)
+{% include image.html url="/research/images/ARM/environment_setup_caption.jpg" caption="" width="300px" align="left" %}
