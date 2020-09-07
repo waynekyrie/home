@@ -52,6 +52,6 @@ comments:
       account:
     facebook:
       appid:
-      num_posts: 5
+      num_posts: 4
       width: 580
       colorscheme: light
