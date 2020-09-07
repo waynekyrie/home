@@ -11,9 +11,7 @@ I am a graduate student in the [Robotics Institute](https://www.ri.cmu.edu/) at 
 ## Contact
 [Email](ruixuanl@andrew.cmu.edu)
 
-[LinkedIn](linkedin.com/in/ruixuan-wayne-liu/)
+[LinkedIn](https://www.linkedin.com/in/ruixuan-wayne-liu-a71b50127/)
 
-[GitHub](https://waynekyrie.github.io/)
+[GitHub](https://github.com/waynekyrie)
 
-[Yavin]: https://en.wikipedia.org/wiki/Yavin
-[chewy@rebel.com]: mailto:chewy@rebel.com
