@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/photo_crop.JPG" caption="" max_width="50px" align="right" %}
+{% include image.html url="images/photo_crop.JPG" caption="" width="50px" align="right" %}
 
 I am a graduate student in the [Robotics Institute](https://www.ri.cmu.edu/) at Carnegie Mellon University advised by [Prof. Changliu Liu](https://www.ri.cmu.edu/ri-faculty/changliu-liu/). I am working in the [Intelligent Control Lab]() as a graduate research assistant. My research focuses on adaptive systems, safe human-robot collaboration, and machine perception.
 
