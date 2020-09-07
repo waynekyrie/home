@@ -10,6 +10,8 @@ I am a graduate student in the [Robotics Institute](https://www.ri.cmu.edu/) at 
 
 I received my Bachelor’s degree in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) with a minor in Robotics at Carnegie Mellon University. 
 
+
+
 Ruixuan Liu<br />
 Graduate Student Researcher<br />
 Robotics Institute<br />
