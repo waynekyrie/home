@@ -4,7 +4,7 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/photo_crop.JPG" caption="Ruixuan Liu\n Bachelor of Science in ECE" width="280px" align="right" %}
+{% include image.html url="images/photo_crop.JPG" caption="" width="280px" align="left" %}
 
 I am a graduate student in the [Robotics Institute](https://www.ri.cmu.edu/) at Carnegie Mellon University advised by [Prof. Changliu Liu](https://www.ri.cmu.edu/ri-faculty/changliu-liu/). I am working in the [Intelligent Control Lab](https://www.ri.cmu.edu/robotics-groups/intelligent-control-lab/) as a graduate research assistant. My research focuses on adaptive systems, safe human-robot collaboration, and robot perception.
 
@@ -16,6 +16,3 @@ Email: [ruixuanl@andrew.cmu.edu](ruixuanl@andrew.cmu.edu)<br />
 [GitHub](https://github.com/waynekyrie)<br />
 [YouTube](https://www.youtube.com/channel/UCrwpy4esMQ1haZRL3rVdmpw?view_as=subscriber)<br />
 
-Address:<br />
-5000 Forbes Ave<br />
-Pittsburgh, PA, 15213
