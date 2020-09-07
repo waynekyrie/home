@@ -6,7 +6,7 @@ permalink: /projects/
 Here is a gallery of the projects I did either for courses or extracurricular events.
 
 <ul class="listing">
-{% for post in site.categories.projects %}
+{% for post in site.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
   {% if year != y %}
     {% assign year = y %}
