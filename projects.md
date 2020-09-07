@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: /projects/
+permalink: /project/
 ---
 Here is a gallery of the projects I did either for courses or extracurricular events.
 
