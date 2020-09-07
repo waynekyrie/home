@@ -4,9 +4,11 @@ title: About
 permalink: /
 ---
 
-{% include image.html url="images/photo_crop.JPG" description="Ruixuan Liu" width="300px" align="right" %}
+{% include image.html url="images/photo_crop.JPG" caption="Ruixuan Liu" width="300px" align="right" %}
 
-I am a graduate student in the [Robotics Institute](https://www.ri.cmu.edu/) at Carnegie Mellon University advised by [Prof. Changliu Liu](https://www.ri.cmu.edu/ri-faculty/changliu-liu/). I am working in the [Intelligent Control Lab]() as a graduate research assistant. My research focuses on adaptive systems, safe human-robot collaboration, and machine perception.
+I am a graduate student in the [Robotics Institute](https://www.ri.cmu.edu/) at Carnegie Mellon University advised by [Prof. Changliu Liu](https://www.ri.cmu.edu/ri-faculty/changliu-liu/). I am working in the [Intelligent Control Lab]() as a graduate research assistant. My research focuses on adaptive systems, safe human-robot collaboration, and robot perception.
+
+I received my Bachelor’s degree in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) with a minor in Robotics at Carnegie Mellon University. 
 
 ## Contact
 Email: [ruixuanl@andrew.cmu.edu](ruixuanl@andrew.cmu.edu)<br />
