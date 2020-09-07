@@ -16,3 +16,6 @@ Email: [ruixuanl@andrew.cmu.edu](ruixuanl@andrew.cmu.edu)<br />
 [GitHub](https://github.com/waynekyrie)<br />
 [YouTube](https://www.youtube.com/channel/UCrwpy4esMQ1haZRL3rVdmpw?view_as=subscriber)<br />
 
+Address:<br />
+5000 Forbes Ave<br />
+Pittsburgh, PA, 15213
