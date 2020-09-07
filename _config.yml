@@ -1,5 +1,5 @@
 title: Ruixuan's Home
-description: Much-Worse Jekyll theme for academic page and blog
+description: This is the homepage for Ruixuan Liu
 sourcecode: "https://github.com/waynekyrie/home"
 
 permalink: blog/:year/:month/:day/:title
@@ -9,7 +9,7 @@ url: "http://ruixuanl.github.io"     # the base hostname & protocol for your sit
 baseurl: "/home"                   # the subpath of your site, e.g. /blog
 
 author:
-    name:
+    name: Ruixuan Liu
     facebook:
     scholar:
 
