@@ -10,8 +10,13 @@ I am a graduate student in the [Robotics Institute](https://www.ri.cmu.edu/) at 
 
 I received my Bachelor’s degree in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) with a minor in Robotics at Carnegie Mellon University. 
 
-## Contact
-Email: [ruixuanl@andrew.cmu.edu](ruixuanl@andrew.cmu.edu)<br />
+Ruixuan Liu<br />
+Graduate Student Researcher<br />
+Robotics Institute<br />
+Carnegie Mellon University<br />
+Email: [ruixuanl@andrew.cmu.edu](ruixuanl@andrew.cmu.edu)
+
+## External Links
 [LinkedIn](https://www.linkedin.com/in/ruixuan-wayne-liu-a71b50127/)<br />
 [GitHub](https://github.com/waynekyrie)<br />
 [YouTube](https://www.youtube.com/channel/UCrwpy4esMQ1haZRL3rVdmpw?view_as=subscriber)<br />
