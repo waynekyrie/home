@@ -1,7 +1,8 @@
 ---
-title: "Research"
-permalink: /research/
 layout: posts
+title: Research
+permalink: /research/
 ---
+
 
 wjakaj
