@@ -3,7 +3,7 @@ description: This is the homepage for Ruixuan Liu
 sourcecode: "https://github.com/waynekyrie/home"
 
 #permalink: blog/:year/:month/:day/:title
-permalink: 
+permalink: /:categories/:title.html
 exclude: ["Makefile", "README.md"]
 
 url: "http://ruixuanl.github.io"     # the base hostname & protocol for your site
@@ -58,3 +58,4 @@ comments:
       num_posts: 4
       width: 580
       colorscheme: light
+
