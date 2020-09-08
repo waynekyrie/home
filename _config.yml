@@ -2,7 +2,8 @@ title: Ruixuan's Home
 description: This is the homepage for Ruixuan Liu
 sourcecode: "https://github.com/waynekyrie/home"
 
-permalink: blog/:year/:month/:day/:title
+#permalink: blog/:year/:month/:day/:title
+permalink: 
 exclude: ["Makefile", "README.md"]
 
 url: "http://ruixuanl.github.io"     # the base hostname & protocol for your site
