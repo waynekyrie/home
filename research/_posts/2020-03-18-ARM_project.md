@@ -14,4 +14,4 @@ The problem that this project intends to solve is polishing the weld bead inside
 
 ![My helpful screenshot](/images/ARM/environment_setup_caption.jpg)
 
-{% include image.html url="/images/ARM/environment_setup_caption.jpg" caption="" width="300px" align="left" %}
+{% include image.html url="/images/environment_setup_caption.jpg" caption="" width="300px" align="left" %}
