@@ -5,4 +5,4 @@ title : Sitemap
 {{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}{% endfor %}
 
 {% for post in site.posts %}
-{{ post.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}{% endfor %}
+{{ post.url | replace:'index.html' }}{% endfor %}
