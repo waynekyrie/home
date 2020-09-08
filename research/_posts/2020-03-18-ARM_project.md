@@ -11,6 +11,6 @@ In manufacturing, many large workpieces are made by welding subcomponents togeth
 # Setup
 The problem that this project intends to solve is polishing the weld bead inside a workpiece. We have the metal workpiece placed in front of our robot using a positioner. We designed a fixture for the robot to hold the polishing tool. The fixture allows the robot to reach into the workpiece and polish the weld bead inside. 
 
-![My helpful screenshot](../images/ARM/environment_setup_caption.jpg)
+![Helpful screenshot](../images/ARM/environment_setup_caption.jpg)
 
-{% include image.html url="../images/ARM/environment_setup_caption.jpg" caption="" width="300px" align="left" %}
+{% include image.html url="images/photo_crop.JPG" caption="" width="300px" align="left" %}
