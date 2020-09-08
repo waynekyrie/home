@@ -3,11 +3,11 @@ description: This is the homepage for Ruixuan Liu
 sourcecode: "https://github.com/waynekyrie/home"
 
 #permalink: blog/:year/:month/:day/:title
-permalink: 
+permalink: /:categories/:title.html
 exclude: ["Makefile", "README.md"]
 
 url: "http://ruixuanl.github.io"     # the base hostname & protocol for your site
-baseurl: "/home"                   # the subpath of your site, e.g. /blog
+baseurl: ""                   # the subpath of your site, e.g. /blog
 
 author:
     name: Ruixuan Liu
