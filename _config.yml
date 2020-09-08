@@ -7,7 +7,7 @@ permalink: /:categories/:title.html
 exclude: ["Makefile", "README.md"]
 
 url: "http://ruixuanl.github.io"     # the base hostname & protocol for your site
-baseurl: ""                   # the subpath of your site, e.g. /blog
+baseurl: "/home"                   # the subpath of your site, e.g. /blog
 
 author:
     name: Ruixuan Liu
