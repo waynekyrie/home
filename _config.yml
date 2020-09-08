@@ -59,5 +59,3 @@ comments:
       width: 580
       colorscheme: light
 
-plugins:
-  - jekyll-sitemap
