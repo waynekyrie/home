@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Adaptable Human Motion Prediction using Recurrent Neural Networks and Inverse Kinematics"
+title: "Adaptable Human Motion Prediction"
 date:   2020-09-01
 description: "Human Motion Prediction"
 location: "Pittsburgh, PA"
