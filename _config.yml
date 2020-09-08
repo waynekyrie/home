@@ -58,3 +58,6 @@ comments:
       num_posts: 4
       width: 580
       colorscheme: light
+
+plugins:
+  - jekyll-sitemap
