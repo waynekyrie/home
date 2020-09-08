@@ -3,7 +3,6 @@ layout: post
 title: "Automatic Onsite Polishing"
 description: "ARM project"
 location: "Mill 19, Pittsburgh, PA"
-categories: ["Manufacturing", "Robotics"]
 
 ---
 
