@@ -4,7 +4,6 @@ title: "Automatic Onsite Polishing"
 date:   2020-03-18
 description: "ARM project"
 location: "Mill 19, Pittsburgh, PA"
-permalink: /ArmProject/
 
 ---
 
