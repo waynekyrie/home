@@ -14,7 +14,7 @@ In manufacturing, many large workpieces are made by welding subcomponents togeth
 
 ## Hardware Setup
 The problem that this project intends to solve is polishing the weld bead inside a workpiece. We have the metal workpiece placed in front of our robot using a positioner. We designed a fixture for the robot to hold the polishing tool. The fixture allows the robot to reach into the workpiece and polish the weld bead inside. A depth camera is placed next to the setup to visually locate the setup.
-![](images/ARM/environment_setup_caption.jpg)
+![](images/ARM/environment_setup_caption.jpg =800x800)
 
 ----
 
@@ -26,7 +26,7 @@ We designed a state machine to control the workflow of the system pipeline. The 
 4. Polishing Decision: The motion planner plans a polishing trajectory.
 5. Polishing: The controller controls the robot to safely performs the polishing.
 6. Surface Measurement: The robot remeasures the inner surface to evaluate the polishing quality.
-![](images/ARM/state_machine.jpg "State Machine Transition Diagram")
+![](images/ARM/state_machine.jpg)
 
 To ensure the safety, we implemented a equivalent simulation environment to test all algorithms and system before deploying to the real robot. 
 
