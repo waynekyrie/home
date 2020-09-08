@@ -26,7 +26,7 @@ We designed a state machine to control the workflow of the system pipeline. The 
 4. Polishing Decision: The motion planner plans a polishing trajectory.
 5. Polishing: The controller controls the robot to safely performs the polishing.
 6. Surface Measurement: The robot remeasures the inner surface to evaluate the polishing quality.
-![](images/ARM/state_machine.jpg =800x)State Machine Transition Diagram
+![](images/ARM/state_machine.jpg)State Machine Transition Diagram
 
 To ensure the safety, we implemented a equivalent simulation environment to test all algorithms and system before deploying to the real robot. 
 
