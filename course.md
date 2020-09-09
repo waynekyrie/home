@@ -4,7 +4,7 @@ title: Courses
 permalink: /course/
 ---
 
-Here is a list of major courses I have taken at CMU.
+Here is a list of the major courses I have taken at CMU.
 ## Graduate
 * 10701: Introduction to Machine Learning (PhD)
 * 16887: Special Topics in Geometry-based Methods in Vision
