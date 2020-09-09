@@ -1,4 +1,7 @@
-- title: "Research"
+- title: "Home"
+  href: "/home/"
+  
+  - title: "Research"
   href: "/research/"
 
 - title: "Projects"
