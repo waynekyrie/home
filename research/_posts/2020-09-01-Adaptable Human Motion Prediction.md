@@ -27,15 +27,16 @@ In general, human wrist moves with clear intentions while the elbow moves only t
 
 ## Results
 Prediction error when predicting for seen humans doing seen tasks:
-<img src="images/RNNIK_MKF/t1t1.JPG" width="800">
+<img src="images/RNNIK_MKF/t1t1.JPG" width="500">
 
 Prediction error when predicting for unseen humans doing seen tasks:
-<img src="images/RNNIK_MKF/t1t2.JPG" width="800">
+<img src="images/RNNIK_MKF/t1t2.JPG" width="500">
+
 Adaptation error comparison with/o MKF enabled:
-<img src="images/RNNIK_MKF/adaptation_error.JPG" width="800">
+<img src="images/RNNIK_MKF/adaptation_error.JPG" width="500">
 
 Prediction error when predicting for seen humans doing unseen tasks:
-<img src="images/RNNIK_MKF/t1tt2.JPG" width="800">
+<img src="images/RNNIK_MKF/t1tt2.JPG" width="500">
 
 [GitHub Repo](https://github.com/intelligent-control-lab/RNNIK-MKF)
 
