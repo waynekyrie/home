@@ -22,4 +22,4 @@ This video shows our robot during the course demo. Our robot could achieve a smo
 The overshoot could be eliminated and achieve a quicker settling time by further tuning the parameters.
 
 ## Credit
-This project was done in team. The team includes [Henry Zhang](https://henryzh47.github.io/) and Xueting Li.
+The team includes [Henry Zhang](https://henryzh47.github.io/) and Xueting Li.
