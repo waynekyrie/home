@@ -31,12 +31,13 @@ Thanks to Joseph Bartels who designed the calibration board and Chuck Whittaker 
 A regular checkerboard can generate good thermal patterns, since the black and white colors have different capability on absorbing heat from lighting. We tested using a heat lamp and sunlight to heat a checkerboard, and it turned out that sunlight was much better. In general, a even distribution of heat and stronger heat from light are preferred.
 
 ## Report
+This is the research project report of the work we did. We used MRE (Mean Re-projection Error) as the evaluation metric to evaluate the calibration result from each method. The result and more details are discussed in the report.
 <object data="multiple-methods-geometric.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="multiple-methods-geometric.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="multiple-methods-geometric.pdf">Download PDF</a>.</p>
     </embed>
 </object>
-This is the research project report of the work we did. The details are explained in the report.
+
 
 ## Credit
 This project was collaborated with [Henry Zhang](https://henryzh47.github.io/).
