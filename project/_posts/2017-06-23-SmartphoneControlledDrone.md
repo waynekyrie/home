@@ -9,10 +9,10 @@ location: "Pittsburgh, PA"
 This was a project that I did during the internship in the lab led by [Prof. Xiaorui Zhu](https://scholar.google.com/citations?user=S11Nv9EAAAAJ&hl=en).
 
 ## Overview
-The goal for this project was to achieve stable UAV control based on smartphone motion sensing. Instead of using a specialized remote controller, the user can use a downloadable app to easily control the paired drone. To make the control method intuitive, we aim to use up/down buttons to control the altitude, the phone's attitude to directly control the drone's attitude.
+The goal for this project was to achieve stable UAV control based on smartphone motion sensing. Instead of using a specialized remote controller, the user can use a phone app to easily control the drone. To make the control method intuitive, we aim to use up/down buttons to control the altitude and the phone's attitude to directly control the drone's attitude.
 
 ## Functions
-To achieve the goal, there were several functions we implemented. First, the programmed app was able to capture the motion of the phone, which means we could know how much the phone was rotated or tilted. Second, the app was able to establish stable wireless connection between the drone and the phone. We used wireless hotspot to achieve that. Third, the app was able to transform the raw motion sensing data to reasonable motion command.  
+To achieve the goal, there were several things we implemented. First, the programmed app was able to capture the motion of the phone, which means we could know how much the phone was rotated or tilted. Second, the app was able to establish stable wireless connection between the drone and the phone. We used wireless hotspot to achieve that. Third, the app was able to transform the raw motion sensing data to reasonable motion command.  
 
 
 ## Video
