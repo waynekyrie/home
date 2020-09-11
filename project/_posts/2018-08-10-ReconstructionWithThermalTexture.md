@@ -21,7 +21,7 @@ The 3D reconstruction was accomplished by stereo vision. The Lidar measurement w
 ## Results
 We attached a paper box on a wall and reconstructed the surface while moving. The following images show the reconstruction of two consecutive shots. The reconstruction from the high-resolution visual camera and Lidar can give high-quality and detailed texture 3D reconstruction. <br />
 <img src="images/reconstruction/result1.png" width="500">
-<img src="images/reconstruction/result2.png" width="300"><br />
+<img src="images/reconstruction/result2.png" width="260"><br />
 We put several ice cubes on the wall to test the thermal texture. <br />
 <img src="images/reconstruction/result3.png" width="1000">
 
