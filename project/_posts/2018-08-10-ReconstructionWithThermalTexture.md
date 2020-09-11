@@ -11,7 +11,7 @@ This was a research project that I did during the internship in the [AirLab](htt
 As the initial phase, instead of build directly on a drone, we built a handheld prototype that could be tested on ground. To achieve high-accuracy 3D reconstruction, the sensor pod has a pair of 4K XIMEA stereo cameras and a Velodyne Lidar. Since many inspections need thermal information, we also had a FLIR thermal camera onboard to provide thermal texture. The sensor pod had the Intel NUC as the core processor.<br />
 <img src="images/reconstruction/front_description.jpg" width="1000"><br />
 <img src="images/reconstruction/hand_held.jpg" width="500">
-<img src="images/reconstruction/tripod.jpeg" width="480"><br />
+<img src="images/reconstruction/tripod.jpeg" width="470"><br />
 Henry with the hand-held sensor pod.
 
 
@@ -21,7 +21,7 @@ The 3D reconstruction was accomplished by stereo vision. The Lidar measurement w
 ## Results
 We attached a paper box on a wall and reconstructed the surface while moving. The following images show the reconstruction of two consecutive shots. The reconstruction from the high-resolution visual camera and Lidar can give high-quality and detailed texture 3D reconstruction. <br />
 <img src="images/reconstruction/result1.png" width="500">
-<img src="images/reconstruction/result2.png" width="260"><br />
+<img src="images/reconstruction/result2.png" width="240"><br />
 We put several ice cubes on the wall to test the thermal texture. <br />
 <img src="images/reconstruction/result3.png" width="1000">
 
