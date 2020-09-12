@@ -4,6 +4,8 @@ title: Resume
 permalink: /resume/
 ---
 
-Download [PDF version](http://nitens.org/img/cvtex/cv_template_xetex_caslon.pdf). The PDF should be embedded underneath -- uses Google Docs for embedding and works if the PDF is on dropbox. Works sporadically if PDF is elsewhere too.
-
-{% include embedpdf.html source="http://nitens.org/img/cvtex/cv_template_xetex_caslon.pdf" width=100 height=800 %}
+<object data="resume/Wayne_Liu_Resume.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="resume/Wayne_Liu_Resume.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="resume/Wayne_Liu_Resume.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
