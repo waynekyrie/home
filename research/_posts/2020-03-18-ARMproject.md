@@ -43,6 +43,13 @@ Several demo videos are available below.
 * [Full Simulation Demo](https://youtu.be/6X4YPcnalwg) This is a demo video showing the pipeline running in full simulation.
 * [System Pipeline Demo](https://youtu.be/aBOw4GjS7xg) This is a video testing only the system pipeline on real robot. 
 
+----
+
+## Publication
+In submission.
+
+----
+
 ## Credit
 This project is collaborated with Weiye Zhao and [Suqin He](https://www.ri.cmu.edu/ri-people/suqin-he/), advised by [Prof. Changliu Liu](https://www.ri.cmu.edu/ri-faculty/changliu-liu/). The project is also collaborated by Siemens and Yaskawa. The project is sponsored by the ARM Institute.
 
