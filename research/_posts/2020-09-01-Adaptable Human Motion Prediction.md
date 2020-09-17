@@ -46,5 +46,10 @@ Prediction error when predicting for seen humans doing unseen tasks:
 
 ----
 
+## Publication
+In submission to ACC & L-CSS.
+
+----
+
 ## Credit
 This project is advised by [Prof. Changliu Liu](https://www.ri.cmu.edu/ri-faculty/changliu-liu/). The project is in part supported by Ford.
