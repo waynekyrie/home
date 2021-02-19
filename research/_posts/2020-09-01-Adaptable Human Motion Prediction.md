@@ -47,7 +47,7 @@ Prediction error when predicting for seen humans doing unseen tasks:
 ----
 
 ## Publication
-In submission to ACC & L-CSS.
+[L-CSS](https://ieeexplore.ieee.org/document/9281312)
 
 ----
 
